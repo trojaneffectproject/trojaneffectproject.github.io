@@ -8,13 +8,13 @@ tntrobust: -YXZU9Htk6Q
 
 # Physical World Deployment Demonstration Videos
 
-## Summary: 
+## Summary
 
-### Targeted Attack - PubFig: 
+### Targeted Attacks on the PubFig Classification Task
 - [The effectiveness of the *flower* TnT](#TnTPubFigEffect)
 - [The robustness of the *flower* TnT](#TnTPubFigRobust)
 
-### Targeted Attack - ImageNet:
+### Targeted Attacks on ImageNet Large Scale Visual Recognition Task
 - [The effectiveness of the patch trigger](#PatchImagenetEffect)
 - [The robustness of the patch trigger](#PatchImagenetRobust)
 - [The effectiveness of the *flower* TnT](#TnTImagenetEffect)
