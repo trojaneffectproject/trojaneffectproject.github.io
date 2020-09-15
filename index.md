@@ -20,7 +20,7 @@ tntrobust: -YXZU9Htk6Q
 - [The effectiveness of the *flower* TnT](#TnTImagenetEffect)
 
 
-## Demo Videos:
+## Demo Videos
 
 ### Targeted Attack with an input-agnostic Natural Trojan Trigger (TnT), a *flower*, from the Natural Trojan Trigger Generator - PubFig Face Recognition Task
 
