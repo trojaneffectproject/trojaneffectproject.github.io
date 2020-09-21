@@ -31,12 +31,6 @@ tntmiscs: 5CDg0RggcL0
 
 {% include youtubePlayer.html id=page.tntpubfig %}
 
-#### Miscellaneous examples of the *flower* TnT 
-<a name="TnTMiscs"></a>
-
-{% include youtubePlayer.html id=page.tntmiscs %}
-
-
 #### The robustness of the *flower* TnT 
 <a name="TnTPubFigRobust"></a>
 
@@ -48,6 +42,11 @@ tntmiscs: 5CDg0RggcL0
 <a name="TnTImagenetEffect"></a>
 
 {% include youtubePlayer.html id=page.cockImagenet %}
+
+#### Miscellaneous examples of the *flower* TnT 
+<a name="TnTMiscs"></a>
+
+{% include youtubePlayer.html id=page.tntmiscs %}
 
 
 ### Targeted Attack with an Input-Agnostic Patch Trigger from the Adversarial Patch Generator - ImageNet classification task
