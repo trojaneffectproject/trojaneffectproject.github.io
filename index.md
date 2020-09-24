@@ -17,10 +17,10 @@ tntmiscs: 5CDg0RggcL0
 
 ### Targeted Attacks on ImageNet Large Scale Visual Recognition Task
 - [The effectiveness of an example *flower* TnT](#TnTImagenetEffect)
-- [The effectiveness and robustness of miscellaneous examples of *flowers* TnT](#TnTMiscs)
+- [The effectiveness and robustness of miscellaneous examples of *flower* TnTs](#TnTMiscs)
 
-- [The effectiveness of the patch trigger](#PatchImagenetEffect)
-- [The robustness of the patch trigger](#PatchImagenetRobust)
+- [The effectiveness of a patch trigger](#PatchImagenetEffect)
+- [The robustness of a patch trigger](#PatchImagenetRobust)
 
 ## Demo Videos
 
@@ -39,11 +39,13 @@ tntmiscs: 5CDg0RggcL0
 
 
 ### Targeted Attack with an Input-Agnostic *flower* Trigger from the Natural Trojan Trigger Generator - ImageNet classification task
+
+#### The effectiveness of an example *flower* TnT 
 <a name="TnTImagenetEffect"></a>
 
 {% include youtubePlayer.html id=page.cockImagenet %}
 
-#### The effectiveness and robustness of miscellaneous examples of *flowers* TnT 
+#### The effectiveness and robustness of miscellaneous examples of *flower* TnTs 
 <a name="TnTMiscs"></a>
 
 {% include youtubePlayer.html id=page.tntmiscs %}
@@ -51,12 +53,12 @@ tntmiscs: 5CDg0RggcL0
 
 ### Targeted Attack with an Input-Agnostic Patch Trigger from the Adversarial Patch Generator - ImageNet classification task
 
-#### The effectiveness of the patch trigger
+#### The effectiveness of a patch trigger
 <a name="PatchImagenetEffect"></a>
 
 {% include youtubePlayer.html id=page.conchImagenet %}
 
-#### The robustness of the patch trigger
+#### The robustness of a patch trigger
 <a name="PatchImagenetRobust"></a>
 
 {% include youtubePlayer.html id=page.conchrobustness %}
