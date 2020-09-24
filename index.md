@@ -18,7 +18,6 @@ tntmiscs: 5CDg0RggcL0
 ### Targeted Attacks on ImageNet Large Scale Visual Recognition Task
 - [The effectiveness of an example *flower* TnT](#TnTImagenetEffect)
 - [The effectiveness and robustness of miscellaneous examples of *flower* TnTs](#TnTMiscs)
-
 - [The effectiveness of a patch trigger](#PatchImagenetEffect)
 - [The robustness of a patch trigger](#PatchImagenetRobust)
 
