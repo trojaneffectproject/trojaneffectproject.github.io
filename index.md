@@ -12,26 +12,26 @@ tntmiscs: 5CDg0RggcL0
 ## Summary
 
 ### Targeted Attacks on the PubFig Classification Task
-- [The effectiveness of the *flower* TnT](#TnTPubFigEffect)
-- [The robustness of the *flower* TnT](#TnTPubFigRobust)
+- [The effectiveness of an example *flower* TnT](#TnTPubFigEffect)
+- [The robustness of an example *flower* TnT](#TnTPubFigRobust)
 
 ### Targeted Attacks on ImageNet Large Scale Visual Recognition Task
-- [The effectiveness of the *flower* TnT](#TnTImagenetEffect)
-- [Miscellaneous examples of the *flower* TnT](#TnTMiscs)
+- [The effectiveness of an example *flower* TnT](#TnTImagenetEffect)
+- [The effectiveness and robustness of miscellaneous examples of *flowers* TnT](#TnTMiscs)
 
 - [The effectiveness of the patch trigger](#PatchImagenetEffect)
 - [The robustness of the patch trigger](#PatchImagenetRobust)
 
 ## Demo Videos
 
-### Targeted Attack with an input-agnostic Natural Trojan Trigger (TnT), a *flower*, from the Natural Trojan Trigger Generator - PubFig Face Recognition Task
+### Targeted Attack with an input-agnostic Natural Trojan Trigger (TnT), an example *flower*, from the Natural Trojan Trigger Generator - PubFig Face Recognition Task
 
-#### The effectiveness of the *flower* TnT 
+#### The effectiveness of an example *flower* TnT 
 <a name="TnTPubFigEffect"></a>
 
 {% include youtubePlayer.html id=page.tntpubfig %}
 
-#### The robustness of the *flower* TnT 
+#### The robustness of an example *flower* TnT 
 <a name="TnTPubFigRobust"></a>
 
 {% include youtubePlayer.html id=page.tntrobust %}
@@ -43,7 +43,7 @@ tntmiscs: 5CDg0RggcL0
 
 {% include youtubePlayer.html id=page.cockImagenet %}
 
-#### Miscellaneous examples of the *flower* TnT 
+#### The effectiveness and robustness of miscellaneous examples of *flowers* TnT 
 <a name="TnTMiscs"></a>
 
 {% include youtubePlayer.html id=page.tntmiscs %}
